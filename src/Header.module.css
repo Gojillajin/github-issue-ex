@@ -8,7 +8,6 @@
 .buttonContainer {
   display: flex;
   margin-bottom: 10px;
-  justify-content: center;
 }
 
 .circle {
